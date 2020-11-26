@@ -1,0 +1,55 @@
+ 
+1. Hi, good evening.
+
+My name is Esraa I have a python project named ( Building Penetration testing tools for detecting Malicious insider for organisation). on Pycharm in kali virtual machine in windows.
+
+The program should show a menu with the required tools and the user choose from them , these are the tools required:
+
+1. scan a port (Did the code and it works)
+2. scan network (Did the code and it works)
+3. ARP spoofing (Did the code and it works)
+4. sniffing (Did the code and it works)
+5. bypassing
+6. key-logger (Did the code and it works)
+7. login password
+8. read/write files
+9. download files
+10. send post request
+11. ARP spoof detector (Did the code and it works)
+12. Exit
+
+Simply, each tool has a its own code then they are put together. like a framework but with a friendly user interface.
+
+I did the interface with some of the tools coding above, but the rest I cant find it. I will send the codes to the ones I did above but I want the rest with a comment for each line of the code to explain what it does. Then, how to add them and make them work in the interface.
+
+Could you please help me ♥.
+Thank you.
+
+
+2. The goal of the login process is that it cannot enter anyone who does not have an account. And I specified the name and password, because I want the idea to be simple, and I do not want to add datbase to the project.
+
+
+
+
+1- I want you to make sure that all the codes are turned on.
+2- That you connect them with each other all in one code.
+3- I also want an explanation of the codes and what is meant by each code.
+4- I want the remaining codes, that I have not done yet.
+5-Then link them to a simple interface window like the picture.
+6-When the user click on one of the choices like: 
+ARP spoofing, it runs its code.
+7- As a further illustration, open the file that you sent previously. In the name of pen_test method will be understood.
+
+
+
+I also want you to give me each code individually and it works on its own. An example of that is to run arp spoofing code on a file by itself
+
+
+
+👆send_post_request :DVWA
+
+
+But the victim device and router have to be linked together  
+
+
+I need to put all the references you use if it exists on all the codes  
